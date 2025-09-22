@@ -79,7 +79,7 @@ Secure Elements like the Titan M2 are more limited than the processor's Trusted 
 
 Google Pixel phones use a TEE OS called Trusty which is [open source](https://source.android.com/security/trusty#whyTrusty), unlike many other phones.
 
-The Pixel 8 series and later introduces support for ARM's Memory Tagging Extension ([MTE](https://developer.arm.com/documentation/108035/0100/Introduction-to-the-Memory-Tagging-Extension)), a hardware security enhancement that drastically lowers the probability of exploits through memory corruption bugs. We cover MTE and its limited implementation in stock Android in our [own article](https://www.privacyguides.org/posts/2025/09/20/memory-integrity-enforcement-changes-the-game-on-ios/#:~:text=Tagging%20Extension%20(MTE).-,What%20is%20MTE?,-MTE%20is%20an).
+The Pixel 8 series and later supports ARM's Memory Tagging Extension ([MTE](https://developer.arm.com/documentation/108035/0100/Introduction-to-the-Memory-Tagging-Extension)), a hardware security enhancement that drastically lowers the probability of exploits through memory corruption bugs. We cover MTE and its limited implementation in stock Android in our [own article](https://www.privacyguides.org/posts/2025/09/20/memory-integrity-enforcement-changes-the-game-on-ios/#:~:text=Tagging%20Extension%20(MTE).-,What%20is%20MTE?,-MTE%20is%20an).
 
 ### Buying a Google Pixel
 
